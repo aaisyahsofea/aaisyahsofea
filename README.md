@@ -16,7 +16,7 @@
 ## 🛠️ Skills
 
 ### 💻 Programming & Web
--  `SQL` | `C++` | `HTML` | `CSS`
+-  SQL | C++ | HTML | CSS
 
 ### ⚙️ Tools & Platforms
 - **Version Control:** Git & GitHub
@@ -26,7 +26,7 @@
 ## 👐 Connect with Me
 Feel free to connect or collaborate!
 
-- ✉️ **Email:** [aisyah.sofea@graduate.utm.my](mailto:aisyah.sofea@graduate.utm.my)
+- ✉️ **Email:** [nur.aisyah.sofea@graduate.utm.my](mailto:nur.aisyah.sofea@graduate.utm.my)
 - 💼 **LinkedIn:** https://www.linkedin.com/in/aisyah-sofea-ismail
 
 ---
