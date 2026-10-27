@@ -16,7 +16,7 @@
 ## 🛠️ Skills
 
 ### 💻 Programming & Web
--  SQL | C++ | HTML | CSS
+-  JavaScript | C++ 
 
 ### ⚙️ Tools & Platforms
 - **Version Control:** Git & GitHub
