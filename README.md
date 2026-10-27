@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there, I'm Aisyah Sofea !  👋
+ 
 
-<!--
-**aaisyahsofea/aaisyahsofea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor of Computer Science (Data Engineering) with Honours** | *Universiti Teknologi Malaysia (UTM)*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 I am currently pursuing a **Bachelor of Computer Science (Data Engineering) with Honours** at Universiti Teknologi Malaysia (UTM).
+- 🔭 I am actively strengthening my core programming skills and exploring data management concepts.
+- 🌱 Currently learning **GitHub** & core programming languages (* SQL, Java, C++*).
+- 💡 Interested in **data processing, data analytics,** and **building efficient data pipelines**.
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming & Web
+-  `SQL` | `C++` | `HTML` | `CSS`
+
+### ⚙️ Tools & Platforms
+- **Version Control:** Git & GitHub
+
+---
+
+## 👐 Connect with Me
+Feel free to connect or collaborate!
+
+- ✉️ **Email:** [aisyah.sofea@graduate.utm.my](mailto:aisyah.sofea@graduate.utm.my)
+- 💼 **LinkedIn:** [Aisyah Sofea](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+
+---
+
