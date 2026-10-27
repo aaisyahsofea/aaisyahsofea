@@ -27,7 +27,8 @@
 Feel free to connect or collaborate!
 
 - ✉️ **Email:** [aisyah.sofea@graduate.utm.my](mailto:aisyah.sofea@graduate.utm.my)
-- 💼 **LinkedIn:** www.linkedin.com/in/aisyah-sofea-ismailVanity URL name
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aisyah-sofea-ismail
 
 ---
+
 
